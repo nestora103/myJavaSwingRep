@@ -37,6 +37,10 @@ public class TestGUIWindow extends JFrame {
         new FlowLayout()-расстановка компонентов в одну строку если компоненты не уместиолись то переносятся на след строку
         new GridLayout()-расстановка компонентов в окне по принципу таблицы 1 колич строк, 2 колич столбцов
         new GridBagLayout()- сложная растановка компонентов
+        new BoxLayout
+        new CardLayout
+        new GroupLayout
+        new SpringLayout
         */
 
         this.getContentPane().setLayout(null);
